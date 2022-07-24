@@ -1,4 +1,7 @@
 # RobotGripper
+
+For servo motor MG995, MG996, MG996R
+
 <img src="img\gripper.png"  height="500">
 
 # Liste des Pièces :
