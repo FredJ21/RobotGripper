@@ -29,15 +29,15 @@
 
 ...enfin :
 
-- Balancier_1
-- Balancier_2
-- Balancier_Gear
+- Balancer_1
+- Balancer_2
+- Balancer_Gear
 
 
 <img src="img\part_3.png"  height="500">
 
 
-# Sur YouTube :
+# Vidéos sur YouTube :
 
 <a href="https://youtu.be/fQmU_h4WdtM">
 <img src="img\youtube_1.png"  height="500">
