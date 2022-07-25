@@ -1,6 +1,6 @@
 # RobotGripper
 
-For servo motor MG995, MG996, MG996R
+For servo motor MG995, MG996, MG996R ...
 
 <img src="img\gripper.png"  height="500">
 
